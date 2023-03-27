@@ -4,6 +4,12 @@ I tried my best to write my code in an OOP. There are cells and candies. The cel
 It was necessary for the matches to be easily found. Therefore, candies transform into different types in certain numbers to make matches easier to find.
 When a deadlock occurs, the candies transform into new candies that can create a match.
 
+
+
+https://user-images.githubusercontent.com/81265340/228063261-06705635-5341-4d32-8871-172823ca774f.mp4
+
+
+
 There are 6 different colors of candies in the game, and each candy has 4 different types.
 
 ![image](https://user-images.githubusercontent.com/81265340/226063087-c613ad4d-8d61-4332-bb2b-48c34b3329a3.png)
